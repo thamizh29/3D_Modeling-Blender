@@ -1,9 +1,9 @@
 # 3D_Modeling
-I am using One of the best Open source software Blender
--Modeling
--Animation
--Image_Rendering
--Texture_painting
--Shading
--Sculpting
--uv_Editing
+I am using One of the best Open source software Blender<br>
+-Modeling<br>
+-Animation<br>
+-Image_Rendering<br>
+-Texture_painting<br>
+-Shading<br>
+-Sculpting<br>
+-uv_Editing<br>
