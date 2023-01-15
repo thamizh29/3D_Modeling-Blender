@@ -1,6 +1,6 @@
 # 3D_Modeling
-I am using One of the best Open source software Blender<br>
--Modeling<br>
+<h1>I am using One of the best Open source software Blender</h1><br>
+<h1>-Modeling</h1><br>
 -Animation<br>
 -Image_Rendering<br>
 -Texture_painting<br>
