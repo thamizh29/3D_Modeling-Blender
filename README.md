@@ -1,4 +1,3 @@
-![dia_best](https://github.com/thamizh29/3D_Modeling-Blender/assets/93852143/28b2844c-d217-43ff-9d43-3c85bb00f2cb)# 3D_Modeling
 I am using One of the best Open source software Blender<br>
 -Modeling<br>
 -Animation<br>
